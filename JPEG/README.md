@@ -1,7 +1,7 @@
-# Mapes JPEG
+# Cartografia JPEG
 Cartografia estàtica exportada en format JPEG.
 
 ______________________________________________
 
-# Mapas JPEG
+# Cartografia JPEG
 Cartografia estática exportada en formato JPEG.
