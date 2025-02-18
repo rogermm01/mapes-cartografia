@@ -4,6 +4,7 @@ Repositori amb cartografia estàtica en format JPEG y PDF, organitzada per facil
 # Estructura del Repositori  
 - `/JPEG/` → Mapes en format imatge  
 - `/PDF/` → Mapes en format PDF
+- `/descriptions/` → Descripció de cada mapa, així com de les fonts utilitzades.
 
 ## Llicència d'ús
 El material d'aquest repositori es pot utilitzar i compartir lliurement, sempre i quan es citi l'autor tal i com es fa en cada cartografia. 
@@ -19,6 +20,8 @@ Repositorio con cartografia estática en formato JPEG y PDF, organizada para fac
 # Estructura del Repositorio  
 - `/JPEG/` → Mapas en formato imagen 
 - `/PDF/` → Mapas en formato PDF
+- `/descriptions/` → Descripción de cada mapa, así como de las fuentes utilizadas.
+
 
 ## Licencia de uso
 El material de este repositorio se puede usar y compartir libremente, siempre y cuando se cite el autor tal y como se hace en cada cartografia. 
