@@ -7,7 +7,7 @@ La cartografia mostra informació relativa a la altitud i el relleu de la unitat
 - **Mapa base simplificat:** Institut Cartogràfic i Geològic de Catalunya (darrera actualització, any 2024).
 - **Dades del límit administratiu de Catalunya (mapa de situació):** Institut Cartogràfic i Geològic de Catalunya (darrera actualització, any 2024). 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Parc Natural de la Serra de Montsant: mapa topográfico (altimetría)
 La cartografía muestra información relativa a la altitud y el relieve de la unidad geomorfológica de la Serra de Montsant, mediante curvas de nivel, sombras de relieve y la localización de los picos más destacados (> 1.100 m).
