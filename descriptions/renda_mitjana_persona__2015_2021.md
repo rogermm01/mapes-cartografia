@@ -4,7 +4,7 @@ La cartografia mostra la renda mitjana per persona (€) els anys **2015, 2021**
 - **Dades dels límits comarcals:** Institut Cartogràfic i Geològic de Catalunya (any 2022).
 - **Dades de la renda mitjana per persona:** IDESCAT - Institut d'Estadística de Catalunya. *"Indicadors socioeconòmics territorials".*  
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Renta media anual por persona (€): 2015, 2021 y evolución durante este periodo, por comarcas (Cataluña).
 La cartografía muestra la renta media por persona (€) los años **2015, 2021** y la evolución durante este periodo, por comarcas, en **Cataluña**.  
