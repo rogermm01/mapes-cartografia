@@ -5,7 +5,7 @@ Segons l'informe de Bombers (https://interior.gencat.cat/web/.content/home/030_a
 - **Dades de la delimitació de la superfície de l'incendi:** Departament d'Agricultura, Ramaderia, Pesca i Alimentació de la Generalitat de Catalunya (darrera actualització, any 2023).
 - **Dades dels límits municipals:** Institut Cartogràfic i Geològic de Catalunya (darrera actualització, any 2025).
 - **Ortofoto territorial:** Institut Cartogràfic i Geològic de Catalunya (anys 2021 i 2023).
-- **Imatges satel·litals Sentinel-2:** Programa Copernicus (a través de Copernicus Browser).
+- **Imatges satel·litals Sentinel-2:** Programa Copernicus, operat per l’ESA (a través de Copernicus Browser).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
