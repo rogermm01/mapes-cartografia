@@ -9,7 +9,7 @@ Segons l'informe de Bombers (https://interior.gencat.cat/web/.content/home/030_a
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Evolució de la superfície afectada per l'incendi forestal de Castellví de Rosanes - Martorell (13 de juliol de 2021) - Índexs NBR i NDVI
+### Evolución de la superfície afectada por el incendio forestal de Castellví de Rosanes - Martorell (13 de julio de 2021) - Índices NBR y NDVI
 La cartografía muestra la evolución de la superficie afectada por el incendio que se produjo en los municipios de Castellví de Rosanes y Martorell (Baix Llobregat) el 13 de julio de 2021, a partir de dos indicadores: el NBR (Normalized Burn Ratio, en español Índice Normalizado de Quemaduras) y el NDVI (Normalized Difference Vegetation Index, en español Índice de Vegetación de Diferencia Normalizada). 
 Según el informe de Bombers (https://interior.gencat.cat/web/.content/home/030_arees_dactuacio/bombers/foc_forestal/consulta_incendis_forestals/informes_incendis_forestals/2020-2029/2021/20210713_I_REMS_Castellvi-de-Rosanes.pdf), la superficie afectada total fue de 197 ha.
 
