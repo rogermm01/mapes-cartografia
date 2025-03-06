@@ -22,7 +22,7 @@ SET defuncions_2023 = d.total
 FROM catalunya.defuncions_2023 as d
 WHERE nom_comarca = nomcomar;
 
-UPDATE catalunya.limits_comarcals_estudis as c
+UPDATE catalunya.limits_comarcals as c
 SET poblacio_2023 = p.total
 FROM catalunya.poblacio_2023 as p
 WHERE nom_comarca = nomcomar;
