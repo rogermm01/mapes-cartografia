@@ -6,7 +6,7 @@ El càlcul de la taxa de creixement natural té en compte tres variables pel mat
   
 Aquesta és la fórmula emprada per l'INE (Instituto Nacional de Estadística) pel càlcul del saldo vegetatiu, tal i com s'explica en el document *Indicadores Demográficos Básicos. Metodologia.* (https://www.ine.es/metodologia/t20/metodologia_idb.pdf).
 
-- **Dades dels límits comarcals:** Institut Cartogràfic i Geològic de Catalunya (any 2024).
+- **Dades dels límits administratius comarcals:** Institut Cartogràfic i Geològic de Catalunya (darrera actualització, any 2025).
 - **Dades de naixements:** Dades extretes dels registres de naixements d'IDESCAT, que recullen el nombre total de naixements anuals per comarca i altres divisions territorials.
 - **Dades de defuncions:** Dades de les estadístiques de mortalitat d’IDESCAT, que recullen el nombre total de defuncions anuals per comarca i altres divisions territorials.  
 - **Dades de població:** S'obté a partir del padró municipal i del cens de població elaborat per IDESCAT. Aquesta dada reflecteix la població resident estimada per a l'any considerat.  
@@ -21,7 +21,7 @@ El cálculo de la tasa de crecimiento natural tiene en cuenta tres variables del
 
 Esta es la fórmula utilizada por el INE (Instituto Nacional de Estadística) para el cálculo del saldo vegetativo, tal y como se explica en el documento Indicadores Demográficos Básicos. Metodología. (https://www.ine.es/metodologia/t20/metodologia_idb.pdf).
 
-- **Datos de los límites comarcales:** Institut Cartogràfic i Geològic de Catalunya (año 2024).
+- **Datos de los límites administrativos comarcales:** Institut Cartogràfic i Geològic de Catalunya (última actualización, año 2024).
 - **Datos de nacimientos:** Datos extraídos de los registros de nacimientos de IDESCAT, que recogen el número total de nacimientos anuales por comarca y otras divisiones territoriales.
 - **Datos de defunciones:** Datos de las estadísticas de mortalidad de IDESCAT, que recogen el número total de defunciones anuales por comarca y otras divisiones territoriales.
 - **Datos de población:** Se obtiene a partir del padrón municipal y del censo de población elaborado por IDESCAT. Este dato refleja la población residente estimada para el año considerado.
