@@ -1,4 +1,4 @@
-### Parc Natural de la Serra de Montsant: mapa topogràfic (altimetria)
+### Parc Natural de la Serra de Montsant: mapa topogràfic (altimetria).
 La cartografia mostra informació relativa a la altitud i el relleu de la unitat geomorfologica de la serra de Montsant, mitjançant corbes de nivell, ombres de relleu i la localització dels pics més destacats (> 1.100 m).
 
 - **Dades del límit administratiu de Catalunya:** Institut Cartogràfic i Geològic de Catalunya (darrera actualització, any 2025). 
@@ -9,7 +9,7 @@ La cartografia mostra informació relativa a la altitud i el relleu de la unitat
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Parc Natural de la Serra de Montsant: mapa topográfico (altimetría)
+### Parc Natural de la Serra de Montsant: mapa topográfico (altimetría).
 La cartografía muestra información relativa a la altitud y el relieve de la unidad geomorfológica de la Serra de Montsant, mediante curvas de nivel, sombras de relieve y la localización de los picos más destacados (> 1.100 m).
 
 - **Datos del límite administrativo de Cataluña:** Institut Cartogràfic i Geològic de Catalunya (última actualización, año 2025).
