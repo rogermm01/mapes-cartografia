@@ -1,4 +1,4 @@
-### Evolució de la superfície coberta per aigua (2015 - 2025): Reserva Integral II dels Aiguamolls de l'Empordà, les Llaunes
+### Evolució de la superfície coberta per aigua (2015 - 2025): Reserva Integral II dels Aiguamolls de l'Empordà, les Llaunes.
 La cartografia mostra l'evolució de la superfície coberta per aigua de la Reserva Integral II dels Aiguamolls de l'Empordà, les Llaunes, comparant les superfície d'aquestes característiques i que es troba dins de la delimitació esmentada dels anys 2015 i 2025.
 
 - **Dades dels límits administratius (comarques, Catalunya):** Institut Cartogràfic i Geològic de Catalunya (darrera acualització, any 2025).
@@ -8,7 +8,7 @@ La cartografia mostra l'evolució de la superfície coberta per aigua de la Rese
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Evolución de la superficie cubierta por agua (2015 - 2025): Reserva Integral II dels Aiguamolls de l'Empordà, les Llaunes
+### Evolución de la superficie cubierta por agua (2015 - 2025): Reserva Integral II dels Aiguamolls de l'Empordà, les Llaunes.
 La cartografía muestra la evolución de la superficie cubierta por agua de la Reserva Integral II dels Aiguamolls de l'Empordà, les Llaunes, comparando la superficie con estas características y que se encuentra dentro de la delimitación mencionada en los años 2015 y 2025.
 
 - **Datos de los límites administrativos (comarcas, Cataluña):** Institut Cartogràfic i Geològic de Catalunya (última actualización, año 2025).
