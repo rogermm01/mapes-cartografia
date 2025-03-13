@@ -2,7 +2,7 @@
 La cartografia mostra l'alçada edificatòria dels immobles situats en zones qualificades com a nucli antic (1) segons el Pla d'Ordenació Urbanística Municipal de l'Ajuntament d'Hostalric (https://dtes.gencat.cat/rpucportal/#/consulta/detallExpedient/259707).
 Les alçades de les superfícies del terme municipal s'han obtingut generant un Model Digital de Superfícies (MDS) a partir dels fitxers LIDAR del CNIG (2ª cobertura, 2015-2021).
 
-- **Dades dels límits administratius (municipis, comarques i Catalunya):** Institut Cartogràfic i Geològic de Catalunya (darrera acualització, any 2025).
+- **Dades dels límits administratius (municipis, comarques i Catalunya):** Institut Cartogràfic i Geològic de Catalunya (darrera actualització, any 2025).
 - **Dades de planejament urbanístic (MUC, qualificacions):** Departament de Territori, Habitatge i Transició Ecològica de la Generalitat de Catalunya (darrera actualització, any 2025).
 - **Dades del cadastre (construccions):** Spanish Inspire Catastral Downloader (darrera actualització, any 2024).
 - **Dades de l'elevació del terreny:** Model d'Elevacions del Terreny de Catalunya 5 x 5 metres (darrera actualització, any 2020).
