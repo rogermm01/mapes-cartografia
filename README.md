@@ -2,8 +2,8 @@
 Repositori amb cartografia estàtica en format JPEG y PDF, organitzada per facilitar la seva consulta i descarrega.
 
 # Estructura del repositori  
-- `/JPEG/` → Mapes en format imatge (JPEG)
-- `/PDF/` → Mapes en format PDF
+- `/JPEG/` → Mapes en format Joint Photographic Experts Group.
+- `/PDF/` → Mapes en format Portable Document Format.
 - `/descriptions/` → Descripció de cada mapa, així com de les fonts utilitzades.
 
 ## Llicència d'ús
@@ -18,8 +18,8 @@ Per contactar per qualsevol pregunta o suggerència, contactar per e-mail: roger
 Repositorio con cartografia estática en formato JPEG y PDF, organizada para facilitar su consulta i descarga.
 
 # Estructura del repositorio  
-- `/JPEG/` → Mapas en formato imagen (JPEG)
-- `/PDF/` → Mapas en formato PDF
+- `/JPEG/` → Mapas en formato Joint Photographic Experts Group.
+- `/PDF/` → Mapas en formato Portable Document Format.
 - `/descriptions/` → Descripción de cada mapa, así como de las fuentes utilizadas.
 
 
