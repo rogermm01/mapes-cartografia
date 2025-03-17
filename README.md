@@ -1,7 +1,7 @@
-# Mapes Estàtics
+# Mapes estàtics
 Repositori amb cartografia estàtica en format JPEG y PDF, organitzada per facilitar la seva consulta i descarrega.
 
-# Estructura del Repositori  
+# Estructura del repositori  
 - `/JPEG/` → Mapes en format imatge (JPEG)
 - `/PDF/` → Mapes en format PDF
 - `/descriptions/` → Descripció de cada mapa, així com de les fonts utilitzades.
@@ -14,10 +14,10 @@ Per contactar per qualsevol pregunta o suggerència, contactar per e-mail: roger
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# Mapas Estáticos
+# Mapas estáticos
 Repositorio con cartografia estática en formato JPEG y PDF, organizada para facilitar su consulta i descarga.
 
-# Estructura del Repositorio  
+# Estructura del repositorio  
 - `/JPEG/` → Mapas en formato imagen (JPEG)
 - `/PDF/` → Mapas en formato PDF
 - `/descriptions/` → Descripción de cada mapa, así como de las fuentes utilizadas.
